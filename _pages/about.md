@@ -27,7 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Sou capixaba, tenho 30 anos e sou Engenheira Eletricista formada pela Universidade do Estado do Rio de Janeiro - UERJ. Ao longo da minha trajetória acadêmica e profissional, desenvolvi interesse por unir conhecimento técnico e educação.
+Sou capixaba, tenho 30 anos e sou Engenheira Eletricista formada pela UERJ. Sempre tive interesse em unir conhecimento técnico e educação, o que me levou a me especializar em Docência para a Educação Profissional e Tecnológica. Hoje, atuo como instrutora na Firjan SENAI, com foco em metodologias práticas e alinhadas ao mercado na área elétrica.
 
-Após a graduação, me especializei em Docência para a Educação Profissional e Tecnológica, com o objetivo de atuar na formação de novos profissionais para o setor industrial. Atualmente, exerço o cargo de instrutora na Firjan SENAI, onde aplico metodologias práticas e alinhadas às demandas do mercado na área elétrica.
-
+Recentemente, participei do Open_Hardware na Casa Firjan, um evento voltado à difusão da cultura maker, inovação e tecnologias de hardware livre. Foi uma experiência enriquecedora, que ampliou minha visão sobre novas possibilidades no ensino técnico e na aplicação de soluções acessíveis e colaborativas na indústria. Estar em contato com projetos inspiradores e profissionais engajados reforçou ainda mais meu compromisso com a educação tecnológica e a formação de novos talentos.
